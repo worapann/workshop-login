@@ -16,7 +16,7 @@
     
     <from action="register_db.php">
         <div class="input-group">
-            <label for="username">Username</label>
+            <label for="username">Usernameeeeeeeeeeeee</label>
             <input type="text" name="Username">
         </div>
         <div class="input-group">
