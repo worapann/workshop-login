@@ -17,7 +17,7 @@
     <from action="register_db.php">
         <div class="input-group">
             <label for="username">Username</label>
-            <input type="text" name="Username">
+            <input type="text" name="Username จ้าาาใส่ด้วย">
         </div>
         <div class="input-group">
             <label for="password">Confirm</label>
